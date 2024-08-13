@@ -8,9 +8,9 @@
 </template>
 
 <script>
-import SidePanel from './SidePanel.vue';
-import MeetTheDeveloper from './MeetTheDeveloper.vue';
-import MeetTheTeam from './MeetTheTeam.vue';
+import SidePanel from './SidePanel.vue'
+import MeetTheDeveloper from './MeetTheDeveloper.vue'
+import MeetTheTeam from './MeetTheTeam.vue'
 
 export default {
   components: {
